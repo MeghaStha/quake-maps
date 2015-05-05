@@ -38,7 +38,7 @@ Hover on a district to find out more information.
 
 ### <a id="deaths-injuries">Intensity/Population/Household Map</a>
 
-<iframe class="height-400" frameborder="0" width="650" height="400" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
+<iframe frameborder="0" width="650" height="400" scrolling="no" src="http://meghastha.github.io/affected-districts/intensity.html"></iframe>
 
 ## <a id="printed-maps">Printed Maps of Affected Areas(PDF)</a>
  * Kathmandu
